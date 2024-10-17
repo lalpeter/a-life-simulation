@@ -11,7 +11,7 @@ body, html {
   background-image: url("bgs/forest.jpg");
 
   /* Add the blur effect */
-  filter: blur(8px);
+  filter: blur(20px);
   -webkit-filter: blur(8px);
   background-color: rgb(1,1,1);
 
